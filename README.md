@@ -13,7 +13,7 @@ https://assetstore.unity.com/
 
 유니티에 유용한 
 ------------------------------------------------
-- 오브젝트풀
+- 오브젝트 풀링
 
 https://www.raywenderlich.com/847-object-pooling-in-unity
 
