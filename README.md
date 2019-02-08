@@ -14,7 +14,7 @@ https://assetstore.unity.com/
 - 오브젝트풀
 
 https://www.raywenderlich.com/847-object-pooling-in-unity
-------------------------------------------------
+
 
 수업 ppt입니다.
 ------------------------------------------------
