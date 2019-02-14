@@ -23,7 +23,7 @@ https://assetstore.unity.com/packages/tools/gui/command-terminal-123344
 
 - Lightweight CSV reader for Unity
 
-https://bravenewmethod.com/2014/09/13/lightweight-csv-reader-for-unity/#comment-7111
+https://bravenewmethod.com/2014/09/13/lightweight-csv-reader-for-unity/
 
 
 수업 ppt입니다.
